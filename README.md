@@ -20,7 +20,6 @@ A análise foi realizada para:
 
 ### ⭐ Média de Avaliação das Lojas
 
-* Loja 4 apresentou a melhor média de avaliação.
 * Diferença visível no engajamento e satisfação dos clientes.
 
 ### 🛒 Vendas por Categoria
