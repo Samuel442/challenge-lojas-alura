@@ -1,4 +1,4 @@
-# 📊 Alura Store — Análise de Dados
+# 📊 Lojas — Análise de Dados
 
 Este projeto apresenta uma análise exploratória dos dados de 4 lojas, incluindo avaliações, categorias, produtos vendidos e frete médio por loja. O objetivo é gerar insights claros e visuais simples para apoiar decisões.
 
