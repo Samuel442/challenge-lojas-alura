@@ -65,7 +65,4 @@ notebooks/analise_alura_store.ipynb
 
 ---
 
-## ✔️ Projeto direto e visual de análise exploratória
-
-Este README resume de forma clara todo o projeto e facilita a reprodução da análise.
 
